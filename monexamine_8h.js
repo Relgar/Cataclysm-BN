@@ -5,6 +5,7 @@ var monexamine_8h =
     [ "add_leash", "monexamine_8h.html#ac213a1f089bcc2602a6c6c9d58d1d7b4", null ],
     [ "attach_bag_to", "monexamine_8h.html#a935d4c4eb310af58bb939713d5cd22c9", null ],
     [ "attach_or_remove_saddle", "monexamine_8h.html#a4396430d7db63915584d98c8180ea646", null ],
+    [ "deactivate_pet", "monexamine_8h.html#ad401ef970ed982d7b51fe916e02429b7", null ],
     [ "dump_items", "monexamine_8h.html#a684505599f42f0f8c335365a2e0cd73c", null ],
     [ "give_items_to", "monexamine_8h.html#a89f3eb85572610e64aa683902e43687e", null ],
     [ "insert_battery", "monexamine_8h.html#ab136709e2d3d094e1935f557142f1f75", null ],
@@ -27,6 +28,7 @@ var monexamine_8h =
     [ "start_leading", "monexamine_8h.html#a1c203b2eee53d0bcd927c4271e410c87", null ],
     [ "stop_leading", "monexamine_8h.html#a663586e54746514203b84f302e5b7faf", null ],
     [ "swap", "monexamine_8h.html#af4ee634a5921005409a5f3aa79e4a8a3", null ],
+    [ "take_items_from", "monexamine_8h.html#a2e9ee18138d440c2bcaf2833826c7211", null ],
     [ "tie_pet", "monexamine_8h.html#ae76b120af015a9112d4ae33380b28164", null ],
     [ "untie_pet", "monexamine_8h.html#a3500f4f80a6dc864dac50a5af744be0a", null ]
 ];

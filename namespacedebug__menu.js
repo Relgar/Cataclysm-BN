@@ -57,6 +57,7 @@ var namespacedebug__menu =
       [ "DEBUG_QUIT_NOSAVE", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970ad7dfbaf8e855b57e90b022bc0728470c", null ],
       [ "DEBUG_TEST_WEATHER", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a98457336f30d07ea9d1f363610c62fd2", null ],
       [ "DEBUG_SAVE_SCREENSHOT", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970af89c0ba34ced12aa3216085b8a0b4557", null ],
+      [ "DEBUG_BUG_REPORT", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a14c3e3bf15581326b080bd8a4a1ac06a", null ],
       [ "DEBUG_GAME_REPORT", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a4e0c1a7e62212a566f524ba4641a86fb", null ],
       [ "DEBUG_DISPLAY_SCENTS_LOCAL", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970aca1ae4e2804eefd71b05275708f953a9", null ],
       [ "DEBUG_DISPLAY_SCENTS_TYPE_LOCAL", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970ac96808b20cd8c021c65353af8ce542dd", null ],
@@ -70,7 +71,9 @@ var namespacedebug__menu =
       [ "DEBUG_TEST_MAP_EXTRA_DISTRIBUTION", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a997eafac44d62e80ad301b8277d4aff2", null ],
       [ "DEBUG_VEHICLE_BATTERY_CHARGE", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a25fea886bbf405d086665076ef67aeab", null ],
       [ "DEBUG_HOUR_TIMER", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a8121aae5201157c65682232a41069f32", null ],
-      [ "DEBUG_NESTED_MAPGEN", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970aa8a9ea29bed60dde8e5fb5a1b0bd0e71", null ]
+      [ "DEBUG_NESTED_MAPGEN", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970aa8a9ea29bed60dde8e5fb5a1b0bd0e71", null ],
+      [ "DEBUG_RESET_IGNORED_MESSAGES", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970aabf69be8eaccd0f2b2a65abb90c826cf", null ],
+      [ "DEBUG_RELOAD_TILES", "namespacedebug__menu.html#a7457e58c3bc9fcf28b9c23cdab4df970a3e935ab36e9171ab2f376e030ec4838e", null ]
     ] ],
     [ "add_header", "namespacedebug__menu.html#adaed30e5f02eb35cd72017cfdc36529d", null ],
     [ "benchmark", "namespacedebug__menu.html#a7ee08848af5ea09ea0bcfc849cc34f4d", null ],
@@ -91,9 +94,10 @@ var namespacedebug__menu =
     [ "teleport_short", "namespacedebug__menu.html#a0a27cbe8edce9d4282791fcda2d3c6d2", null ],
     [ "teleport_uilist", "namespacedebug__menu.html#a122441291d948a1adacb559bdcc19ffe", null ],
     [ "vehicle_uilist", "namespacedebug__menu.html#a1210a07bc50f6d9b05121b6b3d36ced6", null ],
+    [ "wishbionics", "namespacedebug__menu.html#a7ef7b4a54ffab1064ea54225ca4320ad", null ],
     [ "wishitem", "namespacedebug__menu.html#a50b303065b4f4d68e35243048390e4e4", null ],
     [ "wishitem", "namespacedebug__menu.html#ab88e02906e27d769939acdbe9a8b7a91", null ],
-    [ "wishmonster", "namespacedebug__menu.html#aabb3e6bfde09e4a05bce3511eab1ba22", null ],
+    [ "wishmonster", "namespacedebug__menu.html#a325cd0dde9a0b3bdf532592c710db21f", null ],
     [ "wishmutate", "namespacedebug__menu.html#a354dd71d540c6a9228eed7c1c681d1b9", null ],
     [ "wishskill", "namespacedebug__menu.html#a5dc4d9bb3df433a7371c7d9ae874e547", null ]
 ];
